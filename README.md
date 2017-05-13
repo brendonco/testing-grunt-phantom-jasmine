@@ -8,9 +8,9 @@ Clone this project with this command:
 Go to where you clone the project e.g. testing-grunt-phantom-jasmine.
 
 In terminal or commandline, install grunt plugins with this command:
-`grunt init`
+`npm install`
 
-Once the plugin has been installed, open a another terminal and execute http-server with this command:
+Once the plugin has been installed, open another terminal and execute http-server with this command:
 `http-server`
 
 In testing-grunt-phantom-jasmine folder, execute grunt with this command:
